@@ -119,11 +119,11 @@ STARTING XI:
 [FWD] Watkins        | vs MCI (A)   | £ 8.7m | Proj: 5.1
 
  BENCH :
-[GK] Dúbravka        | vs WOL (H)   | £ 4.0m | Proj: 2.1
-[DEF] Estève         | vs WOL (H)   | £ 3.8m | Proj: 2.7
-[MID] Anthony        | vs WOL (H)   | £ 5.0m | Proj: 3.4
-[FWD] Kroupi.Jr      | vs NFO (A)   | £ 4.6m | Proj: 4.0
-
+ [GK] Dúbravka        | vs WOL (H)   | £ 4.0m | Proj: 2.1
+ [DEF] Estève         | vs WOL (H)   | £ 3.8m | Proj: 2.7
+ [MID] Anthony        | vs WOL (H)   | £ 5.0m | Proj: 3.4
+ [FWD] Kroupi.Jr      | vs NFO (A)   | £ 4.6m | Proj: 4.0
+ 
  Total Squad Cost:  £98.8m / £100.0m
  STARTING XI Proj Pts: 58.1 pts
 
