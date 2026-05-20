@@ -99,6 +99,33 @@ Using PuLP and linear programming, the assistant generates teams while following
 - Position limits
 
 ---
+## 🏆 Example Output
+
+When running the optimizer, the algorithm generates a terminal output detailing the optimal Starting XI, bench configuration, and projected points:
+
+ OPTIMIZED(STARTING 11 + BENCH) 
+
+STARTING XI:
+[GK] Raya            | vs CRY (A)   | £ 6.2m | Proj: 5.7
+[DEF] Gabriel        | vs CRY (A)   | £ 7.3m | Proj: 5.7
+[DEF] Senesi         | vs NFO (A)   | £ 5.2m | Proj: 5.3
+[DEF] Guéhi          | vs AVL (H)   | £ 5.1m | Proj: 4.8
+[DEF] Truffert       | vs NFO (A)   | £ 4.7m | Proj: 4.6
+[MID] Anderson       | vs BOU (H)   | £ 5.6m | Proj: 5.6
+[MID] Saka           | vs CRY (A)   | £10.0m | Proj: 5.3
+[MID] Enzo           | vs SUN (A)   | £ 6.4m | Proj: 5.1
+[MID] Gibbs-White    | vs BOU (H)   | £ 7.5m | Proj: 4.9
+[FWD] Haaland        | vs AVL (H)   | £14.7m | Proj: 6.1
+[FWD] Watkins        | vs MCI (A)   | £ 8.7m | Proj: 5.1
+
+ BENCH :
+[GK] Dúbravka        | vs WOL (H)   | £ 4.0m | Proj: 2.1
+[DEF] Estève         | vs WOL (H)   | £ 3.8m | Proj: 2.7
+[MID] Anthony        | vs WOL (H)   | £ 5.0m | Proj: 3.4
+[FWD] Kroupi.Jr      | vs NFO (A)   | £ 4.6m | Proj: 4.0
+
+ Total Squad Cost:  £98.8m / £100.0m
+ STARTING XI Proj Pts: 58.1 pts
 
 ## Example Use Cases
 
